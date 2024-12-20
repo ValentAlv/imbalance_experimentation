@@ -1,4 +1,6 @@
-# imbalance_experimentation
+# Evaluating the Impact of Imbalanced Datasets on Binary Classification: A Comparative Study of Resampling Techniques
+
+**Álvaro V. P. M. BANDEIRA  and  Jorge Luis BAZÁN**
 
 This project is an experimental study on the impact of resampling techniques in binary classification for imbalanced datasets. The objective is to explore how various methods of handling class imbalance affect the performance of machine learning models.
 
@@ -11,6 +13,7 @@ This project is an experimental study on the impact of resampling techniques in 
 - **`resampling.py`**: Here, you'll find various resampling techniques implemented to address class imbalance. The script is designed to be extensible, so feel free to incorporate additional methods that you would like to test.
 
 - **`evaluation.py`**: This file is dedicated to evaluating the outcomes of the experiments. It assesses multiple machine learning algorithms using various evaluation metrics. As with the other components, you are encouraged to add new algorithms and metrics to broaden the scope of your analysis.
+- **`fullexperiment.ipynb`**: **COMING SOON**. Full experiment in a Jupyter Notebook with more detailed explanations.
 
 ## Getting Started
 
